@@ -1,47 +1,70 @@
 <h1 align="center">Hi 👋, I'm Alice</h1>
 <h3 align="center">A passionate Data Analyst with Data Engineering Skills from Taiwan</h3>
 
-- 🔭 I’m currently working on [a real estate project](https://github.com/weijuchen/ETL_realestate)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+-🔭 我最近完成了一個台灣不動產實價登錄資料的全自動化專案，涵蓋資料收集、清洗與儲存流程 👉在此查看 (https://github.com/weijuchen/ETL_realestate)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+-📊 目前正進行資料分析，探索利率、人口成長與政策變動等因素，如何影響房價走勢
+
+-🌱 目前正在學習 R 語言，用於資料分析與統計應用
+
+-   🔭 I recently built a fully automated data pipeline for Taiwan real estate data, handling data ingestion, cleaning, and storage — check it out [here](https://github.com/weijuchen/ETL_realestate)
+
+-   📊 I’m currently working on data analysis to understand how interest rates, population growth, and policy changes impact housing prices
+
+-  🌱  I’m currently learning how to use R for data analysis
+
+<h2 align="center">Skills</h2>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=Power%20BI&logoColor=black" />
+  <img src="https://img.shields.io/badge/Apache%20Airflow-%23017CEE.svg?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-%23E25A1C.svg?style=for-the-badge&logo=Apache%20Spark&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+</div>
+
+- 熟悉 Python 語法（Pandas、NumPy）進行資料清洗、轉換與分析。
+- 熟悉 ETL 資料流程，使用 Airflow 與 Spark 進行資料自動化處理。
+- SQL 資料庫操作能力，支援資料查詢與分析需求。
+- 熟悉 Power BI 進行資料視覺化與商業報表設計。
+- 具備 Git 基本版本控制經驗。
+
+### 工作經驗
+## 國泰世華商業銀行<BR>
+-  工作期間 2025/01 - 2025/07 <BR>
+   職位:數據分析師 <BR>
+   * 疑似被害人評估專案
+      * 根據外部業務需求，清理、整理與分析大量被害人相關資料，透過統計分析檢視既有被害人風險模型準確度不足的問題，並提供數據分析與觀察結果，協助優化疑似被害人風險模型與通知策略。
+        在維持相同預警效果的前提下，成功將通知名單規模縮減約30%，提升模型的實用性與分行執行意願。
+   * 打詐機制優化專案
+      * 依據歷史資料與高風險行為特徵，運用 SQL 與 Excel 進行資料萃取與數據分析，並透過視覺化方式整理結果。針對高風險族群進行行為分群與交叉比對，提出相應的防詐策略建議。
+        初步測試結果顯示，攔阻績效可提升約10%。
 
 
 
+### 作品集 
+## NLP模型比較<BR>
+-  比較 NLP 在情感分析與文本分類任務中的表現，涵蓋傳統 ML、深度學習與 Transformer 架構
+-  實作 Logistic Regression、Linear SVC、TextCNN（PyTorch）與 DistilBERT（Hugging Face）多種模型，並於 Amazon Reviews 與 20 Newsgroups 資料集驗證
+-  DistilBERT 達到最高 91%+ accuracy，顯著超越傳統方法
+-  
+## LINE BOT 智慧防詐平台<BR>
+- 本專案透過LINE BOT，結合生成式AI模型GPT-3.5-turbo，利用爬蟲selenium、RAG、FAISS、LangChain、Whisper、Python與Flask等技術，協助使用者識別並防範詐騙行為。
+- 系統提供相關的詐騙防範資訊和即時支援，幫助使用者提高對潛在詐騙的警覺性，並提供必要的資訊輔助
 
-
-
-<!--
-
-
-## Hi there 👋
-
-My name is Alice, and I'm an MIT trained computer scientist interested in all things Python & Data Science!
-
-- 🔭 I’m currently working on ...[HelloCreator]() ,building an AI-powered companion for social media creators
-
-I recently built a program to automatically download & transcribe your favorite podcasts, check it out [here]()
-
-I am looking to collaborate on Youtube videos!  Send me ideas to business@gmail.com
-- 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-
-
-**weijuchen/weijuchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 銷售量分析與預測<BR>
+-  資料來源為Kaggle
+-  資料庫是超商銷售數據
+-  使用Power BI 為數據分析，使用者可以利用下拉式選單，了解不同年度、產品分類、地區、州別的銷售狀況
+-  利用時間序列分析，建立模型，預測未來銷售量的趨勢。
+ 
+        
