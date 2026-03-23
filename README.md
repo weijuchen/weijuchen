@@ -2,11 +2,11 @@
 <h3 align="center">A passionate Data Analyst with Data Engineering Skills from Taiwan</h3>
 
 
--🔭 我最近完成了一個台灣不動產實價登錄資料的全自動化專案，涵蓋資料收集、清洗與儲存流程 👉在此查看 (https://github.com/weijuchen/ETL_realestate)
+- 🔭 我最近完成了一個台灣不動產實價登錄資料的全自動化專案，涵蓋資料收集、清洗與儲存流程 👉在此查看 (https://github.com/weijuchen/ETL_realestate)
 
--📊 目前正進行資料分析，探索利率、人口成長與政策變動等因素，如何影響房價走勢
+- 📊 目前正進行資料分析，探索利率、人口成長與政策變動等因素，如何影響房價走勢
 
--🌱 目前正在學習 R 語言，用於資料分析與統計應用
+- 🌱 目前正在學習 R 語言，用於資料分析與統計應用
 
 -   🔭 I recently built a fully automated data pipeline for Taiwan real estate data, handling data ingestion, cleaning, and storage — check it out [here](https://github.com/weijuchen/ETL_realestate)
 
@@ -56,11 +56,11 @@
 -  比較 NLP 在情感分析與文本分類任務中的表現，涵蓋傳統 ML、深度學習與 Transformer 架構
 -  實作 Logistic Regression、Linear SVC、TextCNN（PyTorch）與 DistilBERT（Hugging Face）多種模型，並於 Amazon Reviews 與 20 Newsgroups 資料集驗證
 -  DistilBERT 達到最高 91%+ accuracy，顯著超越傳統方法
--  
+  
 ## LINE BOT 智慧防詐平台<BR>
-- 本專案透過LINE BOT，結合生成式AI模型GPT-3.5-turbo，利用爬蟲selenium、RAG、FAISS、LangChain、Whisper、Python與Flask等技術，協助使用者識別並防範詐騙行為。
+- 本專案透過LINE BOT，結合生成式AI模型GPT-3.5-turbo，利用爬蟲selenium、RAG、FAISS、LangChain、Whisper、Python與Flask等技術，協助使用者識別並防範詐騙行為
 - 系統提供相關的詐騙防範資訊和即時支援，幫助使用者提高對潛在詐騙的警覺性，並提供必要的資訊輔助
-
+- 
 ## 銷售量分析與預測<BR>
 -  資料來源為Kaggle
 -  資料庫是超商銷售數據
