@@ -1,18 +1,19 @@
 <h1 align="center">Hi 👋, I'm Alice</h1>
-<h3 align="center">A passionate Data Analyst with Data Engineering Skills from Taiwan</h3>
+<h3 align="center">具備資料工程能力的資料分析師</h3>
 
+- 目前專注於資料分析與資料工程應用，透過資料管線與統計分析，協助理解實際商業問題與資料背後的意義。
 
-- 🔭 我最近完成了一個台灣不動產實價登錄資料的全自動化專案，涵蓋資料收集、清洗與儲存流程 👉在此查看 (https://github.com/weijuchen/ETL_realestate)
+# 🔭 專案與研究方向
 
-- 📊 目前正進行資料分析，探索利率、人口成長與政策變動等因素，如何影響房價走勢
+📌 近期完成一個台灣不動產實價登錄資料的全自動化專案，包括資料收集、清洗與儲存流程，使用 Python、Spark、Airflow、Minio與PostgreSQL 建立 ETL Pipeline  
+👉 專案連結：https://github.com/weijuchen/ETL_realestate  
 
-- 🌱 目前正在學習 R 語言，用於資料分析與統計應用
+📊 目前進行資料分析研究，探討影響房價的因素，例如：  
+- 利率變動  
+- 人口成長  
+- 政策調整  
 
--   🔭 I recently built a fully automated data pipeline for Taiwan real estate data, handling data ingestion, cleaning, and storage — check it out [here](https://github.com/weijuchen/ETL_realestate)
-
--   📊 I’m currently working on data analysis to understand how interest rates, population growth, and policy changes impact housing prices
-
--  🌱  I’m currently learning how to use R for data analysis
+🌱 目前正在學習 R 語言，用於資料分析與統計應用
 
 <h2 align="center">Skills</h2>
 
@@ -32,17 +33,28 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
-- 熟悉 Python 語法（Pandas、NumPy）進行資料清洗、轉換與分析。
-- 熟悉 ETL 資料流程，使用 Airflow 與 Spark 進行資料自動化處理。
-- SQL 資料庫操作能力，支援資料查詢與分析需求。
-- 熟悉 Power BI 進行資料視覺化與商業報表設計。
-- 具備 Git 基本版本控制經驗。
+# 🧠 技能專長
+
+## 📊 資料分析與處理
+- Python（Pandas、NumPy）進行資料清洗與分析
+- SQL 資料查詢、整理與分析
+
+## ⚙️ 資料工程
+- Airflow 建立資料流程自動化（ETL）
+- Spark 進行大規模資料處理
+
+## 📈 資料視覺化
+- Power BI 進行商業分析與儀表板設計
+
+## 🧰 工具與協作
+- Git 版本控制與專案協作
+- Docker 基本環境建置經驗
 
 ### 工作經驗
 ## 國泰世華商業銀行<BR>
 -  工作期間 2025/01 - 2025/07 <BR>
    職位:數據分析師 <BR>
-   * 疑似被害人評估專案
+   * 疑似被害人風險評估專案
       * 根據外部業務需求，清理、整理與分析大量被害人相關資料，透過統計分析檢視既有被害人風險模型準確度不足的問題，並提供數據分析與觀察結果，協助優化疑似被害人風險模型與通知策略。
         在維持相同預警效果的前提下，成功將通知名單規模縮減約30%，提升模型的實用性與分行執行意願。
    * 打詐機制優化專案
@@ -53,14 +65,15 @@
 
 ### 作品集 
 ## NLP模型比較<BR>
--  比較 NLP 在情感分析與文本分類任務中的表現，涵蓋傳統 ML、深度學習與 Transformer 架構
--  實作 Logistic Regression、Linear SVC、TextCNN（PyTorch）與 DistilBERT（Hugging Face）多種模型，並於 Amazon Reviews 與 20 Newsgroups 資料集驗證
+-  比較 NLP 在情感分析與文本分類任務中的表現，範圍包括傳統 ML、深度學習與 Transformer 架構
+-  利用 Logistic Regression、Linear SVC、TextCNN（PyTorch）與 DistilBERT（Hugging Face）多種模型，並於 Amazon Reviews 與 20 Newsgroups 資料集驗證
 -  DistilBERT 達到最高 91%+ accuracy，顯著超越傳統方法
   
 ## LINE BOT 智慧防詐平台<BR>
-- 本專案透過LINE BOT，結合生成式AI模型GPT-3.5-turbo，利用爬蟲selenium、RAG、FAISS、LangChain、Whisper、Python與Flask等技術，協助使用者識別並防範詐騙行為
-- 系統提供相關的詐騙防範資訊和即時支援，幫助使用者提高對潛在詐騙的警覺性，並提供必要的資訊輔助
-- 
+- 使用 LINE Bot 結合 GPT-3.5-turbo 建立防詐系統
+- 整合 Selenium、RAG、FAISS、LangChain、Whisper、Python與Flask
+- 提供即時詐騙辨識與資訊輔助服務，幫助使用者提高對潛在詐騙的警覺性，並提供必要的資訊輔助
+
 ## 銷售量分析與預測<BR>
 -  資料來源為Kaggle
 -  資料庫是超商銷售數據
