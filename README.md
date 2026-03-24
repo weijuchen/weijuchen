@@ -66,7 +66,7 @@
 ### 作品集 
 ## NLP模型比較<BR>
 -  比較 NLP 在情感分析與文本分類任務中的表現，範圍包括傳統 ML、深度學習與 Transformer 架構
--  利用 Logistic Regression、Linear SVC、TextCNN（PyTorch）與 DistilBERT（Hugging Face）多種模型，並於 Amazon Reviews 與 20 Newsgroups 資料集驗證
+-  利用 Logistic Regression、Linear SVC與 DistilBERT（Hugging Face）多種模型，並於 Amazon Reviews 與 20 Newsgroups 資料集驗證
 -  DistilBERT 達到最高 91%+ accuracy，顯著超越傳統方法
   
 ## LINE BOT 智慧防詐平台<BR>
