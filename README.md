@@ -52,7 +52,7 @@ Junior**資料分析師**，畢業於**英國伯明罕大學（University of Bir
 -  比較 NLP 在情感分析與文本分類任務中的表現，範圍包括傳統 ML、深度學習與 Transformer 架構
 -  利用 Logistic Regression、Linear SVC與 DistilBERT（Hugging Face）多種模型，並於 Amazon Reviews 與 20 Newsgroups 資料集驗證
 -  DistilBERT 達到最高 91%+ accuracy，顯著超越傳統方法
--  專案連結:https://github.com/weijuchen/ETL_realestate
+-  專案連結: https://github.com/weijuchen/NLP_model_comparision
     
 ### 銷售量分析與預測<BR>   
 -  專案期間: 2024年
